@@ -21,4 +21,4 @@ else:
 print("1 resposta correta: novato, 2 resposta corretas: intermediário, 3 respostas corretas: craque de bola")
 
 
-Progamado por: Willian Bryan de Oliveira
+Programado por: Willian Bryan de Oliveira
