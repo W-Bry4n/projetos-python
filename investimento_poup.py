@@ -7,5 +7,5 @@ total = 0
 
 for mes in range (1, meses +1):
     total = total + deposito
-    total = total + (total * taxa)
+    total = (total * taxa) + total 
 print(f"Ao final do período, você terá: R${total:2f}")
